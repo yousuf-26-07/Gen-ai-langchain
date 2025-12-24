@@ -1,0 +1,13 @@
+python-dotenv
+streamlit
+langchain_google-genai
+google-generativeai
+langchain_core
+langchain_community
+FASTAPI
+uvicorn
+langserve
+chromadb
+langchain-text-splitters
+pypdf
+bs4
